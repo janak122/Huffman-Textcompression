@@ -16,4 +16,4 @@
 
 
 
-  <img src="https://github.com/janak122/Huffman-Textcompression/blob/main/test_data/huffmen.gif?raw=true" width="500" height="400" title="Demo">
+  <img src="https://github.com/janak122/Huffman-Textcompression/blob/main/test_data/huffmen.gif?raw=true" width="800" height="600" title="Demo">
