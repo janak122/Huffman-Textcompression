@@ -16,4 +16,4 @@
 
 
 
-  <img src="https://github.com/HarshitTarsariya/Image-Processing-Applications/blob/main/Demo/Demo.gif?raw=true" width="250" height="500" title="Demo"
+  <img src="https://github.com/janak122/Huffman-Textcompression/blob/main/test_data/huffmen.gif?raw=true" width="500" height="400" title="Demo">
